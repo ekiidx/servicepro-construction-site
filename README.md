@@ -1,2 +1,2 @@
 # servicepro-construction-site
-This is a construction themed website template.
+A modern construction themed website template.
